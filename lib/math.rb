@@ -35,4 +35,4 @@ end
 square_root(25)
 
 def order_of_operation(num1, num2, num3, num4)
- 98 + 59((13 * 8  * -5) / 2
+ 98 + 59(13 * 8  * -5) / 2
