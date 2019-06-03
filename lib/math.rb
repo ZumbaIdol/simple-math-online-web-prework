@@ -17,13 +17,19 @@ end
 division(81, 9)
 
 def multiplication(num1, num2)
-  
+  return num1 * num2
 end
+
+multiplication(25, 4)
 
 def modulo(num1, num2)
+  return num1 % num2
 end
 
+modulo(100, 4)
+
 def square_root(num)
+  return 
 end
 
 def order_of_operation(num1, num2, num3, num4)
